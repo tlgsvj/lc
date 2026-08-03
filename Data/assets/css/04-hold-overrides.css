@@ -1,0 +1,7 @@
+#holds .hold{grid-template-columns:120px repeat(4,120px)!important;width:max-content!important;max-width:none!important}
+#holds .hold> b:first-child{white-space:nowrap!important;line-height:1.25!important}
+#holds .hold-head> b{white-space:nowrap!important}
+#holds .hold input{width:120px!important}
+.holdbox{overflow-x:auto!important}
+.delay-hot{background:inherit!important;border-color:#cbd7e6!important;box-shadow:none!important;color:inherit!important;font-weight:inherit!important}
+#delayAuto.delay-hot{background:#fff3bf!important;border-color:#ffb300!important;box-shadow:0 0 0 3px rgba(255,179,0,.18)!important;color:#8a4b00!important;font-weight:900!important}
